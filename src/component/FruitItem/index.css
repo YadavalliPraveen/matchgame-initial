@@ -1,0 +1,8 @@
+.list-container {
+  list-style-type: none;
+}
+.thumbnail {
+  width: 220px;
+  height: 220px;
+  margin: 20px;
+}
